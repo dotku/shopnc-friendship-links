@@ -1,7 +1,7 @@
 # ShopNC 友情链接
 ## 版权信息
-> author Weijing Jay Lin <44219991@qq.com>  
-> @release 2015/08/20  
+> @author Weijing Jay Lin <44219991@qq.com>  
+> release 2015/08/20  
 > version v0.1  
 > license MIT 保留作者信息，可以修改或商业用途  
 > link https://github.com/dotku/shopnc-friendship-links  
