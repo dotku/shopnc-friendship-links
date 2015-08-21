@@ -2,7 +2,7 @@
 
 ## 安装说明
 
-1. 备份并覆盖以下文件  
+### 1. 备份并覆盖以下文件  
 
 - /admin/control/navigation.php  
 - /admin/template/default/navigation.index.php  
@@ -13,9 +13,9 @@
 
 - /data/resource/bootstrap/*
 
-2. 在需要的地方引用友情链接代码，代码例子如下
+### 2. 在需要的地方引用友情链接代码，代码例子如下
 
-<?php require_once(__DIR__ . '/friendship-links.php') ?>
+    <?php require_once(__DIR__ . '/friendship-links.php') ?>
 
 (*) 假设模板引用文件与友情链接文件在同一个页面
 
