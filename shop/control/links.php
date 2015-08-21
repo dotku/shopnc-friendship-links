@@ -19,7 +19,7 @@ class linksControl extends BaseHomeControl{
 			$data['nav_description'] = $_POST['nav_description'];
 		}
 		$condition_navigation['nav_type'] = 0; // 自定义链接
-		$condition_navigation['item_id'] = 1;
+		// $condition_navigation['item_id'] = 1;
 		$condition_navigation['if_approved'] = 1;
 		
 		$link_list = $model_navigation->where($condition_navigation)->select();
